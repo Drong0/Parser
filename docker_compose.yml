@@ -1,0 +1,19 @@
+version: "3"
+services:
+  parser:
+    build: .
+    command: python /app/main.py
+    volumes:
+      - .:/app
+# Wait for the parser
+  api:
+    build: .
+    command: ["uvicorn", "parseAPI:app", "--host", "0.0.0.0", "--port", "8000"]
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    depends_on:
+        - parser
+
+

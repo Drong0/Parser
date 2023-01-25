@@ -1,0 +1,2342 @@
+[
+    {
+        "articul": 167679,
+        "name": "Смартфон Samsung Galaxy A73 5G, 256 GB, Awesome Mint (SM-A736B)",
+        "price": 216100,
+        "memory_size": "256"
+    },
+    {
+        "articul": 167441,
+        "name": "Смартфон Samsung Galaxy S22 Ultra, 128 GB, Phantom White (SM-S908)",
+        "price": 539990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 167446,
+        "name": "Смартфон Samsung Galaxy S22 Ultra, 128 GB, Phantom Black (SM-S908)",
+        "price": 539990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 167444,
+        "name": "Смартфон Samsung Galaxy S22 Ultra, 128 GB, Green (SM-S908)",
+        "price": 539990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 167439,
+        "name": "Смартфон Samsung Galaxy S22 Plus, 256 GB, Green (SM-S906)",
+        "price": 469990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 167440,
+        "name": "Смартфон Samsung Galaxy S22 Plus, 256 GB, Phantom Black (SM-S906)",
+        "price": 469990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 167442,
+        "name": "Смартфон Samsung Galaxy S22, 128 GB, Pink Gold (SM-S901)",
+        "price": 389990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161377,
+        "name": "Смартфон Samsung Galaxy S22, 128 GB, Phantom Black (SM-S901)",
+        "price": 389990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 167443,
+        "name": "Смартфон Samsung Galaxy S22, 128 GB, Green (SM-S901)",
+        "price": 389990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 167445,
+        "name": "Смартфон Samsung Galaxy S22, 128 GB, Bora Purple (SM-S901)",
+        "price": 389990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166889,
+        "name": "Смартфон Infinix Zero 20, 256 GB, Deep Gray (X6821)",
+        "price": 180900,
+        "memory_size": "256"
+    },
+    {
+        "articul": 166888,
+        "name": "Смартфон Infinix Note 12i, 128 GB, Snowfall (X6819)",
+        "price": 89900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166887,
+        "name": "Смартфон Infinix Note 12i, 128 GB, Force Black (X6819)",
+        "price": 89900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166923,
+        "name": "Смартфон Redmi 10C, 128 GB, Mint Green (220333QNY)",
+        "price": 84990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166941,
+        "name": "Смартфон Infinix HOT 12 Play, 64 GB, Daylight Green (X6816)",
+        "price": 74900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166940,
+        "name": "Смартфон Infinix HOT 12 Play, 64 GB, Champagne Gold (X6816)",
+        "price": 74900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166891,
+        "name": "Смартфон OnePlus Nord N20 SE, 64 GB, Blue Oasis (CPH2469)",
+        "price": 89990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166890,
+        "name": "Смартфон OnePlus Nord N20 SE, 64 GB, Celestial Black (CPH2469)",
+        "price": 89990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166727,
+        "name": "Смартфон Infinix HOT 12 Play, 64 GB, Racing Black (X6816C)",
+        "price": 74900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166728,
+        "name": "Смартфон Infinix HOT 12 Play, 64 GB, Horizon Blue (X6816C)",
+        "price": 74900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166476,
+        "name": "Смартфон Infinix HOT 12 Play, 128 GB, Champagne Gold (X6816)",
+        "price": 81900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166474,
+        "name": "Смартфон Infinix HOT 12 Play, 128 GB, Daylight Green (X6816)",
+        "price": 81900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166473,
+        "name": "Смартфон Infinix HOT 12 Play, 128 GB, Racing Black (X6816)",
+        "price": 81900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166475,
+        "name": "Смартфон Infinix HOT 12 Play, 128 GB, Horizon Blue (X6816)",
+        "price": 81900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166482,
+        "name": "Смартфон vivo Y35, 128 GB, Dawn Gold (V2205)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166481,
+        "name": "Смартфон vivo Y35, 128 GB, Agate Black (V2205)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166480,
+        "name": "Смартфон vivo Y16, 32 GB, Stellar Black (V2204)",
+        "price": 79990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 166479,
+        "name": "Смартфон vivo Y16, 32 GB, Drizzling Gold (V2204)",
+        "price": 79990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 166274,
+        "name": "Смартфон motorola moto g82, 128 GB, White Lily (PAUA0050TN)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166278,
+        "name": "Смартфон motorola moto g42, 128 GB, Metallic Rose (PAU00036TN)",
+        "price": 119990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166271,
+        "name": "Смартфон motorola edge 30, 256 GB, Meteor Grey (PAUC0042TN)",
+        "price": 249990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 166273,
+        "name": "Смартфон motorola moto g82, 128 GB, Meteorite Gray (PAUA0051TN)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166276,
+        "name": "Смартфон motorola moto g52, 128 GB, Glacier Blue (PAU70020TN)",
+        "price": 139990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166277,
+        "name": "Смартфон motorola moto g42, 128 GB, Atlantic Green (PAU00022TN)",
+        "price": 119990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166280,
+        "name": "Смартфон motorola moto g22, 128 GB, Iceberg Blue (PAU20013TN)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166272,
+        "name": "Смартфон motorola edge 30, 256 GB, Aurora Green (PAUC0046TN)",
+        "price": 249990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 166281,
+        "name": "Смартфон motorola moto e32s, 64 GB, Slate Grey (PAU10005TN)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166275,
+        "name": "Смартфон motorola moto g52, 128 GB, Charcoal Grey (PAU70013TN)",
+        "price": 139990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 166282,
+        "name": "Смартфон motorola moto e32s, 64 GB, Misty Silver (PAU10004TN)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 166279,
+        "name": "Смартфон motorola moto g22, 128 GB, Cosmic Black (PAU20003TN)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165921,
+        "name": "Смартфон Infinix SMART 6 HD, 32 GB, Origin Blue (X6512)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165923,
+        "name": "Смартфон Infinix SMART 6 Plus, 64 GB, Tranquil Sea Blue (X6823C)",
+        "price": 58990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165920,
+        "name": "Смартфон Infinix SMART 6 HD, 32 GB, Force Black (X6512)",
+        "price": 51900,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165922,
+        "name": "Смартфон Infinix SMART 6 Plus, 64 GB, Miracle Black (X6823C)",
+        "price": 58990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165924,
+        "name": "Смартфон Infinix HOT 12, 128 GB, Racing Black (X6817)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165925,
+        "name": "Смартфон Infinix HOT 12, 128 GB, Legend White (X6817)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165866,
+        "name": "Смартфон Tecno Pova 4, 128 GB, Cryolite Blue (LG7n)",
+        "price": 99490,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165867,
+        "name": "Смартфон Tecno Pova 4, 128 GB, Uranolith Grey (LG7n)",
+        "price": 99490,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165864,
+        "name": "Смартфон Tecno Pova Neo 2, 128 GB, Cyber Blue (LG6n)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165862,
+        "name": "Смартфон Tecno Pova Neo 2, 64 GB, Cyber Blue (LG6n)",
+        "price": 74990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165863,
+        "name": "Смартфон Tecno Pova Neo 2, 64 GB, Uranolith Grey (LG6n)",
+        "price": 74990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165865,
+        "name": "Смартфон Tecno Pova Neo 2, 128 GB, Uranolith Grey (LG6n)",
+        "price": 89990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165418,
+        "name": "Смартфон Xiaomi 12T Pro, 256 GB, Blue (22081212UG)",
+        "price": 349990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 165417,
+        "name": "Смартфон Xiaomi 12T Pro, 256 GB, Black (22081212UG)",
+        "price": 349990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 165416,
+        "name": "Смартфон Redmi A1+, 32 GB, Light Green (220733SFG)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165436,
+        "name": "Смартфон vivo Y35, 64 GB, Dawn Gold (V2205)",
+        "price": 109990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165435,
+        "name": "Смартфон vivo Y35, 64 GB, Agate Black (V2205)",
+        "price": 109990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165434,
+        "name": "Смартфон vivo Y22, 64 GB, Starlit Blue (V2207)",
+        "price": 99990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165433,
+        "name": "Смартфон vivo Y22, 64 GB, Metaverse Green (V2207)",
+        "price": 99990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 165343,
+        "name": "Смартфон Tecno POP 6 Pro, 32 GB, Polar Black (BE8)",
+        "price": 44990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165337,
+        "name": "Смартфон Tecno Camon 19, 128 GB, Sea Salt White (CI6n)",
+        "price": 114990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165338,
+        "name": "Смартфон Tecno Camon 19, 128 GB, Eco Black (CI6n)",
+        "price": 114990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165342,
+        "name": "Смартфон Tecno Pova 3, 128 GB, Tech Silver (LF7n)",
+        "price": 107990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165341,
+        "name": "Смартфон Tecno Pova 3, 128 GB, Electric Blue (LF7n)",
+        "price": 107990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165340,
+        "name": "Смартфон Tecno Pova 3, 128 GB, Eco Black (LF7n)",
+        "price": 107990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165339,
+        "name": "Смартфон Tecno Camon 19 Pro, 128 GB, Polar Blue (CI8n)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165249,
+        "name": "Смартфон Redmi A1+, 32 GB, Light Blue (220733SFG)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165247,
+        "name": "Смартфон Redmi A1+, 32 GB, Black (220733SFG)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 165245,
+        "name": "Смартфон Xiaomi 12T, 256 GB, Silver (22071212AG)",
+        "price": 249990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 165244,
+        "name": "Смартфон Xiaomi 12T, 256 GB, Blue (22071212AG)",
+        "price": 249990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 165243,
+        "name": "Смартфон Xiaomi 12T, 256 GB, Black (22071212AG)",
+        "price": 249990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 165054,
+        "name": "Смартфон Infinix Note 11 Pro, 128 GB, Mithril Grey (X697)",
+        "price": 122990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 165055,
+        "name": "Смартфон Infinix Note 11 Pro, 128 GB, Haze Green (X697)",
+        "price": 122990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164853,
+        "name": "Смартфон POCO M5, 64 GB, Green (22071219CG)",
+        "price": 99900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164854,
+        "name": "Смартфон POCO M5, 64 GB, Yellow (22071219CG)",
+        "price": 99900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164852,
+        "name": "Смартфон POCO M5, 64 GB, Black (22071219CG)",
+        "price": 99990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164747,
+        "name": "Смартфон Tecno Camon 19 Pro, 128 GB, Eco Black (CI8n)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164746,
+        "name": "Смартфон Tecno Spark 9 Pro, 128 GB, Quantum Black (KH7n)",
+        "price": 84900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164745,
+        "name": "Смартфон Tecno Spark 9 Pro, 128 GB, Burano Blue (KH7n)",
+        "price": 84900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164646,
+        "name": "Смартфон vivo V25e, 128 GB, Diamond Black (V2201)",
+        "price": 199990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164647,
+        "name": "Смартфон vivo V25e, 128 GB, Sunrise Gold (V2201)",
+        "price": 199990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164649,
+        "name": "Смартфон vivo V25, 256 GB, Aquamarine Blue (V2202)",
+        "price": 259990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164651,
+        "name": "Смартфон vivo V25 Pro, 256 GB, Surfing Blue (V2158)",
+        "price": 329990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164650,
+        "name": "Смартфон vivo V25 Pro, 256 GB, Starlight Black (V2158)",
+        "price": 329990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164648,
+        "name": "Смартфон vivo V25, 256 GB, Diamond Black (V2202)",
+        "price": 259990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164726,
+        "name": "Смартфон Redmi 10A, 64 GB, Sky Blue (220233L2G)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164724,
+        "name": "Смартфон Redmi 10A, 64 GB, Graphite Gray (220233L2G)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164725,
+        "name": "Смартфон Redmi 10A, 64 GB, Chrome Silver (220233L2G)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164566,
+        "name": "Смартфон Samsung Galaxy A73 5G, 128 GB, Awesome Mint (SM-A736B)",
+        "price": 244990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164518,
+        "name": "Смартфон Samsung Galaxy A73 5G, 128 GB, Awesome White (SM-A736B)",
+        "price": 244990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164569,
+        "name": "Смартфон Samsung Galaxy A73 5G, 256 GB, Awesome White (SM-A736B)",
+        "price": 269990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164567,
+        "name": "Смартфон Samsung Galaxy A73 5G, 256 GB, Awesome Gray (SM-A736B)",
+        "price": 269990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 164568,
+        "name": "Смартфон Samsung Galaxy A73 5G, 128 GB, Awesome Gray (SM-A736B)",
+        "price": 244990,
+        "memory_size": "128"
+    },
+    {
+        "articul": "159549+869963059110154",
+        "name": "Смартфон vivo V21, 128Gb, Sunset Dazzle (V2066) (SN:869963059110154)",
+        "price": 139900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": "159548+869963059140656",
+        "name": "Смартфон vivo V21, 128Gb, Dusk Blue (V2066) (SN:869963059140656)",
+        "price": 139900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 164112,
+        "name": "Смартфон vivo Y01, 32 GB, Sapphire Blue (V2118)",
+        "price": 59990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 164111,
+        "name": "Смартфон vivo Y01, 32 GB, Elegant Black (V2118)",
+        "price": 59990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 164057,
+        "name": "Смартфон Infinix Note 11 Pro, 128 GB, Mist Blue (X697)",
+        "price": 122990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 164053,
+        "name": "Смартфон Infinix HOT 12 Play NFC, 64 GB, Racing Black (X6816D)",
+        "price": 72790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164055,
+        "name": "Смартфон Infinix HOT 12 Play NFC, 64 GB, Daylight Green (X6816D)",
+        "price": 72790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164056,
+        "name": "Смартфон Infinix HOT 12 Play NFC, 64 GB, Champagne Gold (X6816D)",
+        "price": 72790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164054,
+        "name": "Смартфон Infinix HOT 12 Play NFC, 64 GB, Horizon Blue (X6816D)",
+        "price": 72790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164050,
+        "name": "Смартфон Infinix HOT 12i, 64 GB, Horizon Blue (X665B)",
+        "price": 66790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164049,
+        "name": "Смартфон Infinix HOT 12i, 64 GB, Racing Black (X665B)",
+        "price": 66790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164051,
+        "name": "Смартфон Infinix HOT 12i, 64 GB, Haze Green (X665B)",
+        "price": 66790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164052,
+        "name": "Смартфон Infinix HOT 12i, 64 GB, Champagne Gold (X665B)",
+        "price": 66790,
+        "memory_size": "64"
+    },
+    {
+        "articul": 164071,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Starry Purple (X6511B)",
+        "price": 55990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 164070,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Polar Black (X6511B)",
+        "price": 55990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 164072,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Light Sea Green (X6511B)",
+        "price": 55990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 163908,
+        "name": "Смартфон Redmi 10 2022, 128 GB, Carbon Gray (21121119SG)",
+        "price": 99990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163909,
+        "name": "Смартфон Redmi 10 2022, 128 GB, Sea Blue (21121119SG)",
+        "price": 99990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163910,
+        "name": "Смартфон Infinix Zero X Pro, 128 GB, Nebula Black (X6811)",
+        "price": 179990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163911,
+        "name": "Смартфон Infinix Zero X Neo, 128 GB, Bahamas Blue (X6810)",
+        "price": 123900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163582,
+        "name": "Смартфон ZTE Blade A51, 64 GB, Dark Grey",
+        "price": 54990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 163581,
+        "name": "Смартфон ZTE Blade A3 2020, 32 GB, Dark Grey",
+        "price": 37990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 163550,
+        "name": "Смартфон POCO M4 Pro, 128 GB, Cool Blue (2201117PG)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163549,
+        "name": "Смартфон POCO M4 Pro, 128 GB, POCO Yellow (2201117PG)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163551,
+        "name": "Смартфон POCO M4 Pro, 256 GB, Power Black (2201117PG)",
+        "price": 149990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163476,
+        "name": "Смартфон POCO C40, 64 GB, Power Black (220333QPG)",
+        "price": 74990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 163478,
+        "name": "Смартфон POCO C40, 64 GB, POCO Yellow (220333QPG)",
+        "price": 74990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 163477,
+        "name": "Смартфон POCO C40, 64 GB, Coral Green (220333QPG)",
+        "price": 74990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 163474,
+        "name": "Смартфон Xiaomi 12 Lite, 256 GB, Lite Pink (2203129G)",
+        "price": 209990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163473,
+        "name": "Смартфон Xiaomi 12 Lite, 256 GB, Lite Green (2203129G)",
+        "price": 209990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163472,
+        "name": "Смартфон Xiaomi 12 Lite, 256 GB, Black (2203129G)",
+        "price": 209990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163471,
+        "name": "Смартфон Xiaomi 12 Lite, 128 GB, Black (2203129G)",
+        "price": 199990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163296,
+        "name": "Смартфон vivo Y55, 128 GB, Midnight Galaxy (V2154)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163297,
+        "name": "Смартфон vivo Y55, 128 GB, Ice Dawn (V2154)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163447,
+        "name": "Смартфон POCO M4 Pro, 128 GB, Power Black (2201117PG)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 163292,
+        "name": "Смартфон POCO M4 Pro, 256 GB, Cool Blue (2201117PG)",
+        "price": 149990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163291,
+        "name": "Смартфон POCO M4 Pro, 256 GB, POCO Yellow (2201117PG)",
+        "price": 149990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 163207,
+        "name": "Смартфон Nokia G11, 64 GB, Charcoal (TA-1401)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 163001,
+        "name": "Смартфон Redmi 10, 64 GB, Sea Blue (21061119DG)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 162992,
+        "name": "Смартфон Redmi 10C, 128 GB, Graphite Gray (220333QAG)",
+        "price": 84990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162968,
+        "name": "Смартфон POCO F4 GT, 256 GB, Knight Silver (21121210G)",
+        "price": 399990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162967,
+        "name": "Смартфон POCO F4 GT, 256 GB, Cyber Yellow (21121210G)",
+        "price": 399990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162970,
+        "name": "Смартфон Redmi 9A, 32 GB, Glacial Blue (M2006C3LG)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 162969,
+        "name": "Смартфон POCO X4 Pro 5G, 128 GB, Laser Black (2201116PG)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162787,
+        "name": "Смартфон Apple iPhone 13, 256 GB, Green (MNGP3)",
+        "price": 519990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162786,
+        "name": "Смартфон Apple iPhone 13, 128 GB, Green (MLNY3)",
+        "price": 449990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162673,
+        "name": "Смартфон realme C25Y, 128 GB, Glacier Blue (RMX3269)",
+        "price": 89890,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162674,
+        "name": "Смартфон realme C25Y, 128 GB, Metal Grey (RMX3269)",
+        "price": 89890,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162672,
+        "name": "Смартфон realme 9, 128 GB, Sunburst Gold (RMX3521)",
+        "price": 149900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162671,
+        "name": "Смартфон realme 9, 128 GB, Meteor Black (RMX3521)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162585,
+        "name": "Смартфон Redmi 10C, 128 GB, Mint Green (220333QAG)",
+        "price": 84990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162510,
+        "name": "Смартфон Tecno Spark 8C, 128 GB, Turquoise Cyan (KG5k)",
+        "price": 69800,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162508,
+        "name": "Смартфон Tecno Spark 8C, 128 GB, Diamond Grey (KG5k)",
+        "price": 69800,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162509,
+        "name": "Смартфон Tecno Spark 8C, 128 GB, Magnet Black (KG5k)",
+        "price": 69800,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162512,
+        "name": "Смартфон Tecno Spark 8C, 64 GB, Magnet Black (KG5k)",
+        "price": 59900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 162511,
+        "name": "Смартфон Tecno Spark 8C, 64 GB, Diamond Grey (KG5k)",
+        "price": 59900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 162515,
+        "name": "Смартфон Tecno Pova Neo, 128 GB, Obsidian Black (LE6h)",
+        "price": 69990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 162513,
+        "name": "Смартфон Tecno Spark 8C, 64 GB, Turquoise Cyan (KG5n)",
+        "price": 59900,
+        "memory_size": "64"
+    },
+    {
+        "articul": 162514,
+        "name": "Смартфон Tecno Pova Neo, 64 GB, Obsidian Black (LE6)",
+        "price": 65990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 162439,
+        "name": "Смартфон POCO X4 Pro 5G, 256 GB, Laser Black (2201116PG)",
+        "price": 179990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162438,
+        "name": "Смартфон POCO X4 Pro 5G, 256 GB, POCO Yellow (2201116PG)",
+        "price": 179990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162437,
+        "name": "Смартфон POCO X4 Pro 5G, 256 GB, Laser Blue (2201116PG)",
+        "price": 179990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 162436,
+        "name": "Смартфон POCO X4 Pro 5G, 128 GB, Laser Blue (2201116PG)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161960,
+        "name": "Смартфон OnePlus 10 Pro 5G, 256 GB, Volcanic Black (NE2213)",
+        "price": 479990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161957,
+        "name": "Смартфон OnePlus Nord 2 5G, 256 GB, Gray Sierra (DN2103)",
+        "price": 259990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161959,
+        "name": "Смартфон OnePlus Nord CE 2, 128 GB, Bahama Blue (IV2201)",
+        "price": 174900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161958,
+        "name": "Смартфон OnePlus Nord CE 2, 128 GB, Gray Mirror (IV2201)",
+        "price": 174900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161860,
+        "name": "Смартфон Tecno Pova 2, 128 GB, Polar Silver (LE7n)",
+        "price": 99990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161956,
+        "name": "Смартфон Infinix Note 11 NFC, 128 GB, Glacier Green (X663B)",
+        "price": 114900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161955,
+        "name": "Смартфон Infinix Note 11 NFC, 128 GB, Celestial Snow (X663B)",
+        "price": 114900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161954,
+        "name": "Смартфон Infinix Note 11 NFC, 128 GB, Graphite Black (X663B)",
+        "price": 114900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161952,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Purple (X6511Е)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161950,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Black (X6511Е)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161953,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Green (X6511Е)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161951,
+        "name": "Смартфон Infinix SMART 6, 32 GB, Blue (X6511Е)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161727,
+        "name": "Смартфон Tecno Spark 8P, 128 GB, Tahiti Gold (KG7n)",
+        "price": 74990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161735,
+        "name": "Смартфон Tecno POP 5 LTE, 32 GB, Deepsea Luster (BD4)",
+        "price": 46990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161728,
+        "name": "Смартфон Tecno Spark 8P, 64 GB, Tahiti Gold (KG7n)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161732,
+        "name": "Смартфон Tecno Spark Go 2022, 32 GB, Atlantic Blue (KG5)",
+        "price": 46990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161726,
+        "name": "Смартфон Tecno Spark 7, 32 GB, Spruce Green (KF6n)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161734,
+        "name": "Смартфон Tecno Spark Go 2022, 32 GB, Ice Silver (KG5)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161725,
+        "name": "Смартфон Tecno Spark 7, 32 GB, Morpheus Blue (KF6n)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161724,
+        "name": "Смартфон Tecno Spark 7, 32 GB, Magnet Black (KF6n)",
+        "price": 49990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161733,
+        "name": "Смартфон Tecno Spark Go 2022, 32 GB, Turquoise Cyan (KG5)",
+        "price": 46990,
+        "memory_size": "32"
+    },
+    {
+        "articul": 161731,
+        "name": "Смартфон Tecno Pova 2, 64 GB, Polar Silver (LE7n)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161729,
+        "name": "Смартфон Tecno Pova 2, 64 GB, Dazzle Black (LE7n)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161730,
+        "name": "Смартфон Tecno Pova 2, 64 GB, Energy Blue (LE7n)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161603,
+        "name": "Смартфон Nokia G21, 128 GB, Nordic Blue (TA-1418)",
+        "price": 94990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161589,
+        "name": "Смартфон Xiaomi 12 Pro, 12 GB, 256 GB, Gray (2201123G)",
+        "price": 449990,
+        "memory_size": "12"
+    },
+    {
+        "articul": 161590,
+        "name": "Смартфон Xiaomi 12 Pro, 12 GB, 256 GB, Blue (2201123G)",
+        "price": 449990,
+        "memory_size": "12"
+    },
+    {
+        "articul": 161585,
+        "name": "Смартфон Xiaomi 12, 12 GB, 256 GB, Gray (2201123G)",
+        "price": 399990,
+        "memory_size": "12"
+    },
+    {
+        "articul": 161586,
+        "name": "Смартфон Xiaomi 12, 12 GB, 256 GB, Blue (2201123G)",
+        "price": 399990,
+        "memory_size": "12"
+    },
+    {
+        "articul": 161579,
+        "name": "Смартфон Redmi Note 11 Pro 5G, 64 GB, Atlantic Blue (2201116SG)",
+        "price": 159990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161577,
+        "name": "Смартфон Redmi Note 11 Pro 5G, 64 GB, Graphite Gray (2201116SG)",
+        "price": 159990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161578,
+        "name": "Смартфон Redmi Note 11 Pro 5G, 64 GB, Polar White (2201116SG)",
+        "price": 159990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161580,
+        "name": "Смартфон Redmi Note 11 Pro, 128 GB, Star Blue (2201116TG)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161588,
+        "name": "Смартфон Xiaomi 12, 8 GB, 256 GB, Blue (2201123G)",
+        "price": 379990,
+        "memory_size": "8"
+    },
+    {
+        "articul": 161581,
+        "name": "Смартфон Xiaomi 12X, 256 GB, Blue (2112123AG)",
+        "price": 329990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161584,
+        "name": "Смартфон Xiaomi 12X, 128 GB, Gray (2112123AG)",
+        "price": 299990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161576,
+        "name": "Смартфон Redmi Note 11 Pro, 128 GB, Graphite Gray (2201116TG)",
+        "price": 148550,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161583,
+        "name": "Смартфон Xiaomi 12X, 128 GB, Purple (2112123AG)",
+        "price": 299990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161595,
+        "name": "Смартфон Redmi Note 11, 128 GB, Star Blue (2201117TG)",
+        "price": 109990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161575,
+        "name": "Смартфон Redmi Note 11 Pro, 128 GB, Polar White (2201116TG)",
+        "price": 159990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161509,
+        "name": "Смартфон Samsung Galaxy A33 5G, 128 GB, Awesome Blue (SM-A336B)",
+        "price": 157990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161502,
+        "name": "Смартфон Samsung Galaxy A53 5G, 256 GB, Awesome Peach (SM-A536E)",
+        "price": 219990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161510,
+        "name": "Смартфон Samsung Galaxy A33 5G, 128 GB, Awesome Black (SM-A336B)",
+        "price": 157990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161500,
+        "name": "Смартфон Samsung Galaxy A53 5G, 256 GB, Awesome Blue (SM-A536E)",
+        "price": 219990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161511,
+        "name": "Смартфон Samsung Galaxy A33 5G, 128 GB, Awesome Peach (SM-A336B)",
+        "price": 157990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161501,
+        "name": "Смартфон Samsung Galaxy A53 5G, 256 GB, Awesome Black (SM-A536E)",
+        "price": 219990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161496,
+        "name": "Смартфон Samsung Galaxy A53 5G, 128 GB, Awesome White (SM-A536E)",
+        "price": 189900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161495,
+        "name": "Смартфон Samsung Galaxy A53 5G, 128 GB, Awesome Peach (SM-A536E)",
+        "price": 204990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161512,
+        "name": "Смартфон Samsung Galaxy A33 5G, 128 GB, Awesome White (SM-A336B)",
+        "price": 157990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161507,
+        "name": "Смартфон Samsung Galaxy A23, 128 GB, Peach (SM-A235F)",
+        "price": 124990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161508,
+        "name": "Смартфон Samsung Galaxy A23, 128 GB, White (SM-A235F)",
+        "price": 124990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161503,
+        "name": "Смартфон Samsung Galaxy A23, 64 GB, Black (SM-A235F)",
+        "price": 107990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161504,
+        "name": "Смартфон Samsung Galaxy A23, 64 GB, Peach (SM-A235F)",
+        "price": 109890,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161505,
+        "name": "Смартфон Samsung Galaxy A23, 64 GB, White (SM-A235F)",
+        "price": 109890,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161338,
+        "name": "Смартфон Xiaomi Redmi 10C, 64 GB, Mint Green (220333QAG)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161336,
+        "name": "Смартфон Xiaomi Redmi 10C, 64 GB, Graphite Gray (220333QAG)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161337,
+        "name": "Смартфон Xiaomi Redmi 10C, 64 GB, Ocean Blue (220333QAG)",
+        "price": 79990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161334,
+        "name": "Смартфон Xiaomi Redmi 10C, 128 GB, Graphite Gray",
+        "price": 84990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161335,
+        "name": "Смартфон Xiaomi Redmi 10C, 128 GB, Ocean Blue (220333QAG)",
+        "price": 79900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161073,
+        "name": "Смартфон Tecno Camon 18, 128 GB, Dusk Gray (CH6n)",
+        "price": 109990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161074,
+        "name": "Смартфон Tecno Camon 18P, 128 GB, Ceramic White (CH7n)",
+        "price": 129990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161269,
+        "name": "Смартфон Xiaomi Redmi Note 11S, 128 GB, Graphite Gray (2201117SG)",
+        "price": 119990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161075,
+        "name": "Смартфон Tecno Camon 18P, 128Gb, Dusk Gray (CH7n)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 161270,
+        "name": "Смартфон Xiaomi Redmi Note 11S, 128 GB, Twilight Blue (2201117SG)",
+        "price": 119990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161077,
+        "name": "Смартфон Tecno Spark 8P, 64 GB, Turquoise Cyan (KG7n)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161076,
+        "name": "Смартфон Tecno Spark 8P, 64 GB, Atlantic Blue (KG7n)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161081,
+        "name": "Смартфон Infinix HOT 11 Play, 64 GB, Sunset Gold (X688B)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161079,
+        "name": "Смартфон Infinix HOT 11 Play, 64 GB, Polar Black (X688B)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161080,
+        "name": "Смартфон Infinix HOT 11 Play, 64 GB, Exploratory Blue (X688B)",
+        "price": 69990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 161128,
+        "name": "Смартфон Samsung Galaxy A53 5G, 256 GB, Awesome White (SM-A536E)",
+        "price": 219990,
+        "memory_size": "256"
+    },
+    {
+        "articul": 161126,
+        "name": "Смартфон Samsung Galaxy A53 5G, 128 GB, Awesome Blue (SM-A536E)",
+        "price": 199890,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161127,
+        "name": "Смартфон Samsung Galaxy A53 5G, 128 GB, Awesome Black (SM-A536E)",
+        "price": 189900,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161093,
+        "name": "Смартфон Samsung Galaxy A13, 128 GB, Black (SM-A135F)",
+        "price": 106990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161092,
+        "name": "Смартфон Samsung Galaxy A13, 128 GB, Blue (SM-A135F)",
+        "price": 109990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161094,
+        "name": "Смартфон Samsung Galaxy A13, 128 GB, White (SM-A135F)",
+        "price": 109990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161078,
+        "name": "Смартфон Xiaomi Redmi 9C, 128 GB, Aurora Green (M2006C3MG)",
+        "price": 74990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161088,
+        "name": "Смартфон Samsung Galaxy A52, 128 GB, Awesome White (SM-A525F)",
+        "price": 154990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 161002,
+        "name": "Смартфон OnePlus Nord 2 5G, 128 GB, Gray Sierra (DN2103)",
+        "price": 209990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160955,
+        "name": "Смартфон Xiaomi Redmi Note 11, 64 GB, Star Blue (2201117TG)",
+        "price": 99990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160859,
+        "name": "Смартфон vivo V23 5G, 128 GB, Sunshine Gold (V2130)",
+        "price": 249990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160858,
+        "name": "Смартфон vivo V23 5G, 128 GB, Stardust Black (V2130)",
+        "price": 249990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160947,
+        "name": "Смартфон Infinix HOT 11, 64 GB, Purple (X662)",
+        "price": 75990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160946,
+        "name": "Смартфон Infinix HOT 11, 64 GB, Silver Wave (X662)",
+        "price": 75990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160945,
+        "name": "Смартфон Infinix HOT 11, 64 GB, Polar Black (X662)",
+        "price": 75990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160768,
+        "name": "Смартфон POCO M3 Pro, 128 GB, Power Black (M2103K19PY)",
+        "price": 109990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160751,
+        "name": "Смартфон Xiaomi Redmi 9C, 128 GB, Sunrise Orange (M2006C3MG)",
+        "price": 74990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160683,
+        "name": "Смартфон vivo Y33s, 64 GB, Mirror Black (V2109)",
+        "price": 84990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160684,
+        "name": "Смартфон vivo Y33s, 64 GB, Midday Dream (V2109)",
+        "price": 84990,
+        "memory_size": "64"
+    },
+    {
+        "articul": 160681,
+        "name": "Смартфон vivo V23e, 128 GB, Moonlight Shadow (V2116)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160682,
+        "name": "Смартфон vivo V23e, 128 GB, Dancing Waves (V2116)",
+        "price": 149990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160491,
+        "name": "Смартфон Infinix Zero X Neo, 128Gb, Nebula Black (X6810)",
+        "price": 123900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160492,
+        "name": "Смартфон Infinix Zero X Neo, 128Gb, Silver (X6810)",
+        "price": 114900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160489,
+        "name": "Смартфон Infinix HOT 10i, 64Gb, Mist Copper (X658E)",
+        "price": 54990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 160490,
+        "name": "Смартфон Infinix HOT 10i, 64Gb, Ocean (X658E)",
+        "price": 54990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 160337,
+        "name": "Смартфон Xiaomi 11T Pro, 128Gb, Moonlight White (2107113SG)",
+        "price": 269900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160336,
+        "name": "Смартфон Xiaomi 11T Pro, 128Gb, Celestial Blue (2107113SG)",
+        "price": 269900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160335,
+        "name": "Смартфон Xiaomi 11T, 128Gb, Moonlight White (21081111RG)",
+        "price": 229900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160061,
+        "name": "Смартфон Apple iPhone 13, 128 GB, Red (MLPJ3)",
+        "price": 449990,
+        "memory_size": "128"
+    },
+    {
+        "articul": 160062,
+        "name": "Смартфон Apple iPhone 13, 256Gb, Blue (MLP73)",
+        "price": 519990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 160060,
+        "name": "Смартфон Apple iPhone 13, 128Gb, Pink (MLNY3)",
+        "price": 449990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 160083,
+        "name": "Смартфон POCO M4 Pro 5G, 64Gb, Power Black (21091116AG)",
+        "price": 114900,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 160082,
+        "name": "Смартфон POCO M4 Pro 5G, 128Gb, Power Black (21091116AG)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159952,
+        "name": "Смартфон realme 9i, 128Gb, Prism Black (RMX3491)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159953,
+        "name": "Смартфон realme 9i, 128Gb, Prism Blue (RMX3491)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159920,
+        "name": "Смартфон Xiaomi Redmi Note 11, 64Gb, Graphite Gray (2201117TG)",
+        "price": 99990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159922,
+        "name": "Смартфон Xiaomi Redmi Note 11, 128Gb, Graphite Gray (2201117TG)",
+        "price": 109990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159921,
+        "name": "Смартфон Xiaomi Redmi Note 11, 64Gb, Twilight Blue (2201117TG)",
+        "price": 99990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159923,
+        "name": "Смартфон Xiaomi Redmi Note 11, 128Gb, Twilight Blue (2201117TG)",
+        "price": 109990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159446,
+        "name": "Смартфон Tecno Camon 17p, 128Gb, Magnet Black (CG7n)",
+        "price": 109990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159445,
+        "name": "Смартфон Tecno Pova 2, 128Gb, Energy Blue (LE7n)",
+        "price": 99990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159544,
+        "name": "Смартфон vivo Y53s, 128Gb, Deep Sea Blue (V2058)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159545,
+        "name": "Смартфон vivo Y53s, 128Gb, Fantastic Rainbow (V2058)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159543,
+        "name": "Смартфон vivo Y33s, 128Gb, Mirror Black (V2109)",
+        "price": 109990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159550,
+        "name": "Смартфон realme 8, 128Gb, Cyber Black (RMX3085)",
+        "price": 140900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159542,
+        "name": "Смартфон vivo Y33s, 128Gb, Midday Dream (V2109)",
+        "price": 109990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159538,
+        "name": "Смартфон vivo Y15s, 32Gb, Mystic Blue (V2120)",
+        "price": 69990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159541,
+        "name": "Смартфон vivo Y21, 64Gb, Metallic Blue (V2111)",
+        "price": 84990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159539,
+        "name": "Смартфон vivo Y15s, 32Gb, Wave Green (V2120)",
+        "price": 69990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159535,
+        "name": "Смартфон vivo Y1s, 32Gb, Ripple Blue (vivo2015)",
+        "price": 64990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159540,
+        "name": "Смартфон vivo Y21, 64Gb, Diamond Glow (V2111)",
+        "price": 84990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159537,
+        "name": "Смартфон vivo Y12s, 32Gb, Phantom Black (V2026)",
+        "price": 71990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159534,
+        "name": "Смартфон vivo Y1s, 32Gb, Olive Black (vivo2015)",
+        "price": 64990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159536,
+        "name": "Смартфон vivo Y12s, 32Gb, Nebula Blue (V2026)",
+        "price": 71990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159547,
+        "name": "Смартфон vivo V21e, 128Gb, Roman Black (V2061)",
+        "price": 149990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159546,
+        "name": "Смартфон vivo V21e, 128Gb, Diamond Flare (V2061)",
+        "price": 149990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159549,
+        "name": "Смартфон vivo V21, 128Gb, Sunset Dazzle (V2066)",
+        "price": 159990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159548,
+        "name": "Смартфон vivo V21, 128Gb, Dusk Blue (V2066)",
+        "price": 159990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159456,
+        "name": "Смартфон Samsung Galaxy A52, 128Gb, Awesome Violet (SM-A525F)",
+        "price": 169690,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159443,
+        "name": "Смартфон Tecno Spark 8P, 128Gb, Atlantic Blue (KG7n)",
+        "price": 74990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159442,
+        "name": "Смартфон Tecno Spark 8P, 128Gb, Turquoise Cyan (KG7n)",
+        "price": 74990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159428,
+        "name": "Смартфон Tecno Spark 7, 128Gb, Spruce Green (KF6n)",
+        "price": 75100,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159426,
+        "name": "Смартфон Tecno Spark 7, 128Gb, Magnet Black (KF6n)",
+        "price": 75100,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159427,
+        "name": "Смартфон Tecno Spark 7, 128Gb, Morpheus Blue (KF6n)",
+        "price": 75100,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159423,
+        "name": "Смартфон Tecno Spark 7, 64Gb, Morpheus Blue (KF6n)",
+        "price": 65990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159424,
+        "name": "Смартфон Tecno Spark 7, 64Gb, Spruce Green (KF6n)",
+        "price": 65990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159425,
+        "name": "Смартфон Tecno Spark 7, 64Gb, Magnet Black (KF6n)",
+        "price": 65990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 159421,
+        "name": "Смартфон Tecno POP 5, 32Gb, Ice Lake Green (BD2p)",
+        "price": 46990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159420,
+        "name": "Смартфон Tecno POP 5, 32Gb, Ice Blue (BD2p)",
+        "price": 46990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159422,
+        "name": "Смартфон Tecno POP 5, 32Gb, Obsidian Black (BD2p)",
+        "price": 46990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 159432,
+        "name": "Смартфон Apple iPhone 13, 256Gb, Midnight (MLP23)",
+        "price": 519990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 159431,
+        "name": "Смартфон Apple iPhone 13, 128Gb, Starlight (MLNX3)",
+        "price": 449990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159358,
+        "name": "Смартфон POCO M4 Pro 5G, 128Gb, POCO Yellow",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159357,
+        "name": "Смартфон POCO M4 Pro 5G, 128Gb, Cool Blue",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159225,
+        "name": "Смартфон Apple iPhone 13, 128Gb, Midnight (MLNW3)",
+        "price": 449990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159222,
+        "name": "Смартфон Apple iPhone 13, 128Gb, Blue (MLP13)",
+        "price": 449990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 159154,
+        "name": "Смартфон realme GT Master Edition, 128Gb, Voyager Gray (RMX3363)",
+        "price": 179990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158968,
+        "name": "Смартфон realme C25s, 128Gb, Blue (RMX3195)",
+        "price": 93900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158967,
+        "name": "Смартфон realme C25s, 128Gb, Gray (RMX3195)",
+        "price": 93900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158835,
+        "name": "Смартфон Infinix HOT 10i, 64Gb, Black (X658E)",
+        "price": 54500,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 158836,
+        "name": "Смартфон Infinix HOT 10i, 64Gb, Morandi Green (X658E)",
+        "price": 54990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 158839,
+        "name": "Смартфон Infinix HOT 10S, 128Gb, Morandi Green (X689B)",
+        "price": 90990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158840,
+        "name": "Смартфон Infinix HOT 10S, 128Gb, Purple (X689B)",
+        "price": 90990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158838,
+        "name": "Смартфон Infinix HOT 10S, 128Gb, Heart of Ocean (X689B)",
+        "price": 90990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158720,
+        "name": "Смартфон Samsung Galaxy A52, 256Gb, Awesome Blue (SM-A525F)",
+        "price": 189990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 158620,
+        "name": "Смартфон OnePlus 8, 128Gb, Interstellar Glow (IN2013)",
+        "price": 249990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158616,
+        "name": "Смартфон OnePlus Nord N10 5G, 128Gb, Midnight Ice (BE2029)",
+        "price": 129990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158621,
+        "name": "Смартфон OnePlus 8T, 128Gb, Lunar Silver (KB2003)",
+        "price": 249990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158618,
+        "name": "Смартфон OnePlus Nord, 128Gb, Blue Marble (AC2003)",
+        "price": 189900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158619,
+        "name": "Смартфон OnePlus Nord, 256Gb, Gray Onix (AC2003)",
+        "price": 219900,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 158622,
+        "name": "Смартфон OnePlus 8T, 128Gb, Aquamarine Green (KB2003)",
+        "price": 239990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158617,
+        "name": "Смартфон OnePlus Nord, 128Gb, Gray Onix (AC2003)",
+        "price": 189900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158649,
+        "name": "Смартфон Xiaomi 11T, 128Gb, Meteorite Gray (21081111RG)",
+        "price": 229900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158650,
+        "name": "Смартфон Xiaomi 11T, 256Gb, Meteorite Gray (21081111RG)",
+        "price": 249890,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 158652,
+        "name": "Смартфон Xiaomi 11T, 256Gb, Moonlight White (21081111RG)",
+        "price": 249890,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 158651,
+        "name": "Смартфон Xiaomi 11T, 256Gb, Celestial Blue (21081111RG)",
+        "price": 279990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 158648,
+        "name": "Смартфон Xiaomi 11T, 128Gb, Celestial Blue (21081111RG)",
+        "price": 229900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 158019,
+        "name": "Смартфон Xiaomi 11 Lite 5G NE, 6Gb, 128Gb, Truffle Black (2109119DG)",
+        "price": 159990,
+        "memory_size": "6Gb"
+    },
+    {
+        "articul": 157678,
+        "name": "Смартфон Samsung Galaxy Z Flip3 5G, 128Gb, Phantom Black (SM-F711B)",
+        "price": 399990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 157679,
+        "name": "Смартфон Samsung Galaxy Z Flip3 5G, 256Gb, Lavender (SM-F711B)",
+        "price": 399990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 157674,
+        "name": "Смартфон Samsung Galaxy Z Fold3 5G, 512Gb, Phantom Silver (SM-F926B)",
+        "price": 799990,
+        "memory_size": "512Gb"
+    },
+    {
+        "articul": 157673,
+        "name": "Смартфон Samsung Galaxy Z Fold3 5G, 512Gb, Phantom Black (SM-F926B)",
+        "price": 799990,
+        "memory_size": "512Gb"
+    },
+    {
+        "articul": 157676,
+        "name": "Смартфон Samsung Galaxy Z Flip3 5G, 128Gb, Cream (SM-F711B)",
+        "price": 399990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 157680,
+        "name": "Смартфон Samsung Galaxy Z Flip3 5G, 256Gb, Cream (SM-F711B)",
+        "price": 399990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 157545,
+        "name": "Смартфон Infinix HOT 10i, 32Gb, Blue (PR652B)",
+        "price": 49800,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 157554,
+        "name": "Смартфон Infinix HOT 10T, 128Gb, Blue (X689C)",
+        "price": 82900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 157556,
+        "name": "Смартфон Infinix HOT 10T, 128Gb, Morandi Green (X689C)",
+        "price": 82900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 157547,
+        "name": "Смартфон Infinix HOT 10i, 32Gb, Morandi Green (PR652B)",
+        "price": 49800,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 157553,
+        "name": "Смартфон Infinix HOT 10T, 128Gb, Black (X689C)",
+        "price": 82900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 157543,
+        "name": "Смартфон Infinix HOT 10 Lite, 32Gb, Midnight Black (X657B)",
+        "price": 49990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 157497,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 64Gb, Pebble White (21061119AG)",
+        "price": 79990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157498,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 128Gb, Pebble White (21061119AG)",
+        "price": 89990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157495,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 64Gb, Carbon Gray (21061119AG)",
+        "price": 79990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157499,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 128Gb, Carbon Gray (21061119AG)",
+        "price": 89990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157496,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 64Gb, Sea Blue (21061119AG)",
+        "price": 79990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157500,
+        "name": "Смартфон Xiaomi Redmi 10, 4Gb, 128Gb, Sea Blue (21061119AG)",
+        "price": 89990,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 157230,
+        "name": "Смартфон Samsung Galaxy A52, 256Gb, Awesome Violet (SM-A525F)",
+        "price": 189990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 157062,
+        "name": "Смартфон realme C21Y, 32Gb, Blue (RMX3261)",
+        "price": 56300,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 157061,
+        "name": "Смартфон realme C21Y, 32Gb, Black (RMX3261)",
+        "price": 56300,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 156708,
+        "name": "Смартфон Samsung Galaxy A52, 256Gb, Awesome Black (SM-A525F)",
+        "price": 194990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 156718,
+        "name": "Смартфон realme C21Y, 64Gb, Blue (RMX3261)",
+        "price": 69190,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 156716,
+        "name": "Смартфон realme C21Y, 64Gb, Black (RMX3261)",
+        "price": 69190,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 156493,
+        "name": "Смартфон Xiaomi Redmi 9C, 128Gb, Midnight Gray (M2006C3MG)",
+        "price": 74990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 155625,
+        "name": "Смартфон Xiaomi Redmi Note 10 5G, 4Gb, 64Gb, Aurora Green (M2103K19G)",
+        "price": 93900,
+        "memory_size": "4Gb"
+    },
+    {
+        "articul": 155575,
+        "name": "Смартфон Xiaomi 11 Lite 5G, 8Gb, 128Gb, Truffle Black (M2101K9G)",
+        "price": 189900,
+        "memory_size": "8Gb"
+    },
+    {
+        "articul": 155525,
+        "name": "Смартфон Tecno Camon 16, 128Gb, Misty Grey (CE7j)",
+        "price": 99900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 155528,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 512Gb, Graphite (MGDG3)",
+        "price": 699990,
+        "memory_size": "512Gb"
+    },
+    {
+        "articul": 155325,
+        "name": "Смартфон POCO M3 Pro 5G, 64Gb, Power Black (M2103K19PG)",
+        "price": 109990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 155120,
+        "name": "Смартфон Apple iPhone 12 Pro, 512Gb, Graphite (MGMU3)",
+        "price": 689990,
+        "memory_size": "512Gb"
+    },
+    {
+        "articul": 155121,
+        "name": "Смартфон Apple iPhone 12 Pro, 512Gb, Pacific Blue (MGMX3)",
+        "price": 689990,
+        "memory_size": "512Gb"
+    },
+    {
+        "articul": 154987,
+        "name": "Смартфон realme C11 (2021), 2Gb/32Gb, Blue (RMX3231)",
+        "price": 49590,
+        "memory_size": "2Gb/32Gb"
+    },
+    {
+        "articul": 154988,
+        "name": "Смартфон realme C11 (2021), 2Gb/32Gb, Gray (RMX3231)",
+        "price": 49990,
+        "memory_size": "2Gb/32Gb"
+    },
+    {
+        "articul": 154925,
+        "name": "Смартфон OPPO Reno5 Lite, 128Gb, Black (CPH2205)",
+        "price": 139990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 154930,
+        "name": "Смартфон OPPO A74, 128Gb, Blue (CPH2219)",
+        "price": 119990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 154929,
+        "name": "Смартфон OPPO A74, 128Gb, Black (CPH2219)",
+        "price": 119990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 154928,
+        "name": "Смартфон OPPO A54, 64Gb, Blue (CPH2239)",
+        "price": 94990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 154927,
+        "name": "Смартфон OPPO A54, 64Gb, Black (CPH2239)",
+        "price": 94990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 154759,
+        "name": "Смартфон Xiaomi Redmi Note 10S, 6Gb, 64Gb, Onyx Gray",
+        "price": 109990,
+        "memory_size": "6Gb"
+    },
+    {
+        "articul": 154592,
+        "name": "Смартфон Xiaomi Redmi Note 10S, 6Gb, 64Gb, Pebble White",
+        "price": 111100,
+        "memory_size": "6Gb"
+    },
+    {
+        "articul": 154508,
+        "name": "Смартфон Xiaomi Redmi Note 10 Pro, 8Gb, 128Gb, Glacier Blue",
+        "price": 154990,
+        "memory_size": "8Gb"
+    },
+    {
+        "articul": 154397,
+        "name": "Смартфон Apple iPhone Xr (2020), 128Gb, Red (MH7N3)",
+        "price": 319500,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 153864,
+        "name": "Смартфон Samsung Galaxy A52, 128Gb, Awesome Blue (SM-A525F)",
+        "price": 154990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 153582,
+        "name": "Смартфон Samsung Galaxy A52, 256Gb, Awesome White (SM-A525F)",
+        "price": 189990,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 153536,
+        "name": "Смартфон Meizu M10, 2Gb, 32Gb, Phantom Black (M918H)",
+        "price": 45990,
+        "memory_size": "2Gb"
+    },
+    {
+        "articul": 153537,
+        "name": "Смартфон Meizu M10, 2Gb, 32Gb, Sea Blue (M918H)",
+        "price": 47990,
+        "memory_size": "2Gb"
+    },
+    {
+        "articul": 152626,
+        "name": "Смартфон Meizu M10, 32Gb, Sea Blue (M918H)",
+        "price": 52990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 152627,
+        "name": "Смартфон Meizu M10, 32Gb, Purplish Red (M918H)",
+        "price": 52990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 152625,
+        "name": "Смартфон Meizu M10, 32Gb, Phantom Black (M918H)",
+        "price": 52990,
+        "memory_size": "32Gb"
+    },
+    {
+        "articul": 152392,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 256Gb, Gold (MGDE3)",
+        "price": 629700,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 152393,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 256Gb, Pacific Blue (MGDF3)",
+        "price": 629700,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 152047,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 256Gb, Graphite (MGDC3)",
+        "price": 629700,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 152048,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 256Gb, Silver (MGDD3)",
+        "price": 629700,
+        "memory_size": "256Gb"
+    },
+    {
+        "articul": 152050,
+        "name": "Смартфон Apple iPhone 12 Pro Max, 128Gb, Pacific Blue (MGDA3)",
+        "price": 599990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 151841,
+        "name": "Смартфон Apple iPhone 11 (2020), 128Gb, Black (MHDH3)",
+        "price": 337900,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 151553,
+        "name": "Смартфон Tecno POP 4 Pro, 16Gb, Vacation Blue (BC3)",
+        "price": 39990,
+        "memory_size": "16Gb"
+    },
+    {
+        "articul": 151550,
+        "name": "Смартфон Tecno POP 3, 16Gb, Champagne Gold (BB2)",
+        "price": 29990,
+        "memory_size": "16Gb"
+    },
+    {
+        "articul": 151549,
+        "name": "Смартфон Tecno POP 3, 16Gb, Sandstone Black (BB2)",
+        "price": 29990,
+        "memory_size": "16Gb"
+    },
+    {
+        "articul": 150013,
+        "name": "Смартфон Tecno Spark 6 Go, 64Gb, Aqua Blue (KE5j)",
+        "price": 54900,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 151555,
+        "name": "Смартфон Tecno Spark 6, 64Gb, Comet Black (KE7)",
+        "price": 64900,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 151665,
+        "name": "Смартфон Vsmart Joy 4, 3Gb, 64Gb, Turquoise (FV441AQGNE)",
+        "price": 65700,
+        "memory_size": "3Gb"
+    },
+    {
+        "articul": 150803,
+        "name": "Смартфон Apple iPhone 12, 64Gb, Red (MGJ73)",
+        "price": 379990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 150801,
+        "name": "Смартфон Apple iPhone 12, 64Gb, Black (MGJ53)",
+        "price": 379990,
+        "memory_size": "64Gb"
+    },
+    {
+        "articul": 149297,
+        "name": "Смартфон Tecno Spark 5 Pro, 128Gb, Seabed Blue (KD7)",
+        "price": 69990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 149296,
+        "name": "Смартфон Tecno Spark 5 Pro, 128Gb, Ice Jadeite (KD7)",
+        "price": 69990,
+        "memory_size": "128Gb"
+    },
+    {
+        "articul": 148531,
+        "name": "Смартфон Xiaomi Redmi 9C, 64Gb, Sunrise Orange (M2006C3MG)",
+        "price": 69990,
+        "memory_size": "64Gb"
+    }
+]
